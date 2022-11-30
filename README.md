@@ -9,6 +9,7 @@
 ### Purpose
 
 Tired of manual creation standups in Mattermost? Want to save 99999 hours of your time? This script is for you!
+
 IT PARSES! IT MARKDOWNS! IT ALMOST WRITES CODE FOR YOU!
 
 ### Example output:
